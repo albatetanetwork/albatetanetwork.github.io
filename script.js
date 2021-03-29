@@ -1,3 +1,3 @@
-let h2 = document.createElement('h2')
-h2.textContent = "This content added by JavaScript"
-document.querySelector('body').appendChild(h2)
+let h4 = document.createElement('h4')
+h4.textContent = "More about Alba"
+document.querySelector('body').appendChild(h4)
